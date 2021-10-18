@@ -12,3 +12,5 @@ python manage.py runserver
 # for creating an app
 
 python manage.py startapp base
+
+"terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
